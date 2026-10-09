@@ -12,7 +12,7 @@ st.set_page_config(
     page_icon="🩺",
     layout="centered"
 )
-# 🎨 Custom UI styling — paste here
+
 st.markdown("""
 <style>
 .block-container {
